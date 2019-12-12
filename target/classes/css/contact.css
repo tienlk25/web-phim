@@ -1,0 +1,12 @@
+
+.btn-outline-info {
+    color: #f3f7f0;
+    background-color: #2bbbad;
+    background-image: none;
+    border-color: #2bbbad;
+}
+
+/* form contact */
+.bg-info {
+    background-color: #dfe9ea !important;
+}

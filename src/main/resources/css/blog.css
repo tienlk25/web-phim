@@ -1,0 +1,147 @@
+#logo {
+    margin-right: 4rem !important;
+    margin-left: 10rem !important;
+}
+
+/*  H E A D E R  */
+.container-fluid {
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+/* anh logo */
+.rounded {
+    vertical-align: middle;
+    border-style: hidden;
+    width: 270px;
+    height: 55px;
+}
+
+/* hover cho thanh menu */
+/*.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+/*
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+}
+/* ------------------- */
+/*fron- size */
+
+
+  /*
+
+  
+  
+  
+  */
+  
+ .btn-primary{
+    display: inline-block;
+    color: #040000;
+    background-color: #ffffff;
+    border-color: #f8faf8;
+ }
+ .w-100 {
+    width: 100% !important;
+    height:720px !important;
+}
+
+.card-img-top {
+	margin-top: 20px !important;
+    height: 420px !important;
+    width: 273px !important;
+}
+
+#hinhnenimg {
+    width: 300px !important;
+}
+
+ .navbar-brand {
+    color: #1ea23c !important;
+}
+
+.mb-3 {
+    width: 275px !important;
+}
+
+/* Mau cho thong tin Phim */
+#infor{
+    color: #29bfa4;
+}
+<!-- ------------------------------------- -->
+
+.textInfo{
+	color: #cdcdcd !important;
+}
+
+/* card trang chính #35373a*/
+
+.form-control {
+    background-color: #1c1c1c !important;
+    border: 1px solid #1c1c1c	 !important;
+    color: #cdcdcd  !important;
+}
+/* card trang chính */
+
+.card-title {
+  /*  display: block  !important;*/
+    font-size: 18px  !important;   
+    color: #cdcdcd;
+    padding: 0;
+    margin: 4px 0 0 0;
+    text-align: left;
+    font-weight: 700;
+    display: block;
+    transition: .2s;
+    max-width: 100%;
+    line-height: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+
+.list_item {
+    margin-left: 100px;
+    display: inline-block;
+}
+
+.item {
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    width: 275px;
+}
+
+.image {
+    max-width: 100%;
+}
+/*comment Facebook*/
+._2pi8{
+	color: #cdcdcd !important;
+ }
+
+ 
+ .btn-success {
+    width: 78px !important;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
